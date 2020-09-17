@@ -1,0 +1,13 @@
+h1{
+	color:r;
+}
+.box{
+	min-height: 50px;
+	background: red;
+	margin-bottom:5px;
+}
+.ex-box{
+	min-height: 50px;
+	background: ;
+	margin-bottom:5px;
+}
